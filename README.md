@@ -28,9 +28,11 @@ flutter付费讲义的备课
 
 8. listview重点讲，并实现下拉刷新的功能。
 
-9. 综合，自己实现I oT应用中下拉刷新的header 实战各种layout。
+9. 导航路由，push pushedname pushandreplacement pop poputil之间的区别。
 
-   
+10. 综合，自己实现I oT应用中下拉刷新的header 实战各种layout。
+
+    
 
 ### 网络
 
@@ -41,7 +43,14 @@ flutter付费讲义的备课
 ### 存储
 
 1. 文件存储，文件封装存储实战。
+
 2. sqlite的使用。
+
+   
+
+### 私库的搭建
+
+
 
 ### IoT 入网相关(忽略)
 
