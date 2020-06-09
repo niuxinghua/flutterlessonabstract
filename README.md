@@ -1,6 +1,5 @@
 # flutterlessonabstract
-flutter
-菜鸟窝付费讲义的备课
+flutter付费讲义的备课
 
 ###   前期准备
 
@@ -25,17 +24,40 @@ flutter
 
 6. gesture recongnizer的使用，重点讲解gesturerecongnizer响应收视的几个方法，用gesturerecongnizer实现IoT 应用中负责的灯光控制组件。
 
-7. listview重点讲，并实现下拉刷新的功能。
+7. provider consumer组件使用，数据与UI绑定。
 
-8. 综合，自己实现I oT应用中下拉刷新的header 实战各种layout。
+8. listview重点讲，并实现下拉刷新的功能。
+
+9. 综合，自己实现I oT应用中下拉刷新的header 实战各种layout。
 
    
 
 ### 网络
 
-1. 基于dio 的封装实践
-2. json解码封装实践
-3. 
+1. 基于dio 的封装实践，包含各种前置filter全局鉴权，http模块封装。鉴权，restful方法组装。
+2. json解码封装实践，json_serializable模版自动生成。
+3. websocket模块封装，重链，心跳等逻辑。
+
+### 存储
+
+1. 文件存储，文件封装存储实战。
+2. sqlite的使用。
+
+### 综合
+
+1. 基于IoT 应用，app架构讲解，私库封装。全局状态同步机制等etc。
+
+
+
+# 继续补充-
+
+
+
+
+
+
+
+
 
 
 
