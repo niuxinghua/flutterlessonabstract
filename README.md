@@ -30,9 +30,11 @@ flutter付费讲义的备课
 
 9. 导航路由，push pushedname pushandreplacement pop poputil之间的区别。
 
-10. 综合，自己实现I oT应用中下拉刷新的header 实战各种layout。
+10. 国际化，文字国际化，与图片资源的使用。
 
-    
+11. 综合，自己实现I oT应用中下拉刷新的header 实战各种layout。
+
+      
 
 ### 网络
 
@@ -43,10 +45,18 @@ flutter付费讲义的备课
 ### 存储
 
 1. 文件存储，文件封装存储实战。
-
 2. sqlite的使用。
 
-   
+
+
+### 异常监控
+
+1. dart 与flutter层面的异常监控，利用bugly 编写dart调用插件，监控flutter层面的问题。
+2. native crash监控，直接利用bugly监控app的anr crash等问题。
+
+
+
+ 
 
 ### 私库的搭建
 
